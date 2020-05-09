@@ -1,0 +1,12 @@
+.bigItem span { display: inline-block; }.bigItem { width:375px; }
+.item-img { height:200px; }
+.item-img > .qt_img:nth-child(0) { border-radius:10px; }
+.item-info { margin:10px; }
+
+.item-name > .name { font-weight:bold;font-size:16px; }
+.item-label { margin:6px 0 0 0; }
+.item-label > .label { color:red;border:1px solid red;padding:0 4px; }
+.item-preice { margin:6px 0 0 0; }
+.item-preice > .qt_text:nth-child(1) { color:red;font-size:16px; }
+
+

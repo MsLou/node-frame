@@ -1,0 +1,19 @@
+.asd span { display: inline-block; }
+.asd { width:375px;background:#fff; }
+.bigItem { width:375px; }
+.item-img { height:200px; }
+.item-img > .qt_img:nth-child(1) { border-radius:10px; }
+.item-info { margin:10px; }
+.item-name > .name { color:#666; }
+.item-label { margin:6px 0 0 0; }
+.item-preice { margin:6px 0 0 0; }
+.bigItem { width:375px; }
+.item-img { height:200px; }
+.item-img > .qt_img:nth-child(1) { border-radius:10px; }
+.item-info { margin:10px; }
+.item-label { margin:6px 0 0 0; }
+.item-preice { margin:6px 0 0 0; }
+.public-1 { font-weight:bold;font-size:16px; }
+.public-2 { color:red;border:1px solid red;padding:0 4px; }
+.public-3 { color:red;font-size:16px; }
+

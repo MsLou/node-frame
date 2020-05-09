@@ -1,0 +1,44 @@
+{
+  "name": "qingtian",
+  "version": "1.0.0",
+  "description": "qingtiian",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "koa2"
+  ],
+  "author": "luoxd",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/cors": "^3.0.0",
+    "axios": "^0.18.0",
+    "basic-auth": "^2.0.1",
+    "bcryptjs": "^2.4.3",
+    "global": "^4.4.0",
+    "jsonwebtoken": "^8.4.0",
+    "jszip": "^3.2.2",
+    "koa": "^2.7.0",
+    "koa-body": "^4.1.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-send": "^5.0.0",
+    "koa-static": "^5.0.0",
+    "lodash": "^4.17.11",
+    "mime": "^2.4.4",
+    "moment": "^2.24.0",
+    "mysql2": "^1.6.5",
+    "nodemon": "^2.0.2",
+    "npm-check": "^5.9.0",
+    "request": "^2.88.2",
+    "require-directory": "^2.1.1",
+    "sequelize": "^5.21.2",
+    "validator": "^10.11.0"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
