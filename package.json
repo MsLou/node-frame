@@ -19,7 +19,7 @@
     "basic-auth": "^2.0.1",
     "bcryptjs": "^2.4.3",
     "global": "^4.4.0",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "jszip": "^3.2.2",
     "koa": "^2.7.0",
     "koa-body": "^4.1.1",
